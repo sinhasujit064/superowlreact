@@ -82,7 +82,7 @@ const About=()=>{
                       <div className="bottom-separator" />
                     </div>
                     <div className="author-box">
-                      <a href="#" className="avatar">
+                      <a  className="avatar">
                         <img src="assets/pic/1.png" alt="" />
                       </a>
                       <div className="author-info">
@@ -105,7 +105,7 @@ const About=()=>{
                       <div className="bottom-separator" />
                     </div>
                     <div className="author-box">
-                      <a href="#" className="avatar">
+                      <a  className="avatar">
                         <img src="assets/pic/2.png" alt="" />
                       </a>
                       <div className="author-info">
@@ -128,7 +128,7 @@ const About=()=>{
                       <div className="bottom-separator" />
                     </div>
                     <div className="author-box">
-                      <a href="#" className="avatar">
+                      <a  className="avatar">
                         <img src="assets/pic/3.png" alt="" />
                       </a>
                       <div className="author-info">
@@ -151,7 +151,7 @@ const About=()=>{
                       <div className="bottom-separator" />
                     </div>
                     <div className="author-box">
-                      <a href="#" className="avatar">
+                      <a  className="avatar">
                         <img src="assets/pic/1.png" alt="" />
                       </a>
                       <div className="author-info">
@@ -174,7 +174,7 @@ const About=()=>{
                       <div className="bottom-separator" />
                     </div>
                     <div className="author-box">
-                      <a href="#" className="avatar">
+                      <a  className="avatar">
                         <img src="assets/pic/2.png" alt="" />
                       </a>
                       <div className="author-info">
@@ -197,7 +197,7 @@ const About=()=>{
                       <div className="bottom-separator" />
                     </div>
                     <div className="author-box">
-                      <a href="#" className="avatar">
+                      <a  className="avatar">
                         <img src="assets/pic/3.png" alt="" />
                       </a>
                       <div className="author-info">
@@ -227,7 +227,7 @@ const About=()=>{
               <div className="col-sm-4">
                 <div className="align-right">
                   <div className="button-holder">
-                    <a href="#" className="btn btn-big">Enrol Now!</a>
+                    <a  className="btn btn-big">Enrol Now!</a>
                     <p>Or Call <span>855-605-8080</span></p>
                   </div>
                 </div>

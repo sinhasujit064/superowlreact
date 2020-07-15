@@ -45,23 +45,23 @@ const Header=()=>{
                       </div>
                       <div className="contact-info-item lang-button">
                         <i className="icon-globe-1" />
-                        <a href="#">English</a>
+                        <a >English</a>
                         <ul className="dropdown-list">
-                          <li><a href="#">English</a></li>
-                          <li><a href="#">German</a></li>
-                          <li><a href="#">Spanish</a></li>
+                          <li><a >English</a></li>
+                          <li><a >German</a></li>
+                          <li><a >Spanish</a></li>
                         </ul>
                       </div>
                       <div className="contact-info-item">
                         <i className="icon-globe-1" />
-                        <a href="#">Client/Register</a>
+                        <a >Client/Register</a>
                       </div>
                       <div className="contact-info-item">
                         <ul className="social-icons">
-                          <li className="fb-icon"><a href="#"><i className="icon-facebook" /></a></li>
-                          <li className="google-icon"><a href="#"><i className="icon-gplus" /></a></li>
-                          <li className="tweet-icon"><a href="#"><i className="icon-twitter" /></a></li>
-                          <li className="insta-icon"><a href="#"><i className="icon-instagram-4" /></a></li>
+                          <li className="fb-icon"><a ><i className="icon-facebook" /></a></li>
+                          <li className="google-icon"><a ><i className="icon-gplus" /></a></li>
+                          <li className="tweet-icon"><a ><i className="icon-twitter" /></a></li>
+                          <li className="insta-icon"><a ><i className="icon-instagram-4" /></a></li>
                         </ul>
                       </div>
                     </div>
@@ -90,7 +90,7 @@ const Header=()=>{
                       </ul>
                     </nav>
                     {/* - - - - - - - - - - - - end Navigation - - - - - - - - - - - - - - - */}
-                    <a href="#" className="btn btn-style-2">Inquire</a>
+                    <a  className="btn btn-style-2">Inquire</a>
                   </div>
                 </div>
               </div>

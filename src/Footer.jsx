@@ -13,10 +13,10 @@ const Footer=()=>{
                     <h5 className="widget-title">About Us</h5>
                     <p>Aenean auctor wisi et urna. Aliquam erat volutpat. Duis ac turpis. Integer rutrum ante eu lacus.Vestibulum libero nisl.</p>
                     <ul className="social-icons style-2">
-                      <li className="fb-icon"><a href="#"><i className="icon-facebook" /></a></li>
-                      <li className="google-icon"><a href="#"><i className="icon-gplus" /></a></li>
-                      <li className="tweet-icon"><a href="#"><i className="icon-twitter" /></a></li>
-                      <li className="insta-icon"><a href="#"><i className="icon-instagram-4" /></a></li>
+                      <li className="fb-icon"><a ><i className="icon-facebook" /></a></li>
+                      <li className="google-icon"><a ><i className="icon-gplus" /></a></li>
+                      <li className="tweet-icon"><a ><i className="icon-twitter" /></a></li>
+                      <li className="insta-icon"><a ><i className="icon-instagram-4" /></a></li>
                     </ul>
                     <p className="copyright">Copyright <span>SuperOwl</span> © 2017. <br /> All Rights Reserved</p>
                   </div>
@@ -51,7 +51,7 @@ const Footer=()=>{
                               <time className="entry-date" dateTime="2016-01-27">December 28, 2017</time>
                             </div>
                             {/* - - - - - - - - - - - - - End of Meta - - - - - - - - - - - - - - - - */}
-                            <h6 className="entry-title"><a href="#">Vestibulum Sed Ante</a></h6>
+                            <h6 className="entry-title"><a >Vestibulum Sed Ante</a></h6>
                           </div>
                           {/* - - - - - - - - - - - - - End of Entry body - - - - - - - - - - - - - - - - */}
                         </article>
@@ -65,7 +65,7 @@ const Footer=()=>{
                               <time className="entry-date" dateTime="2016-01-21">December 21, 2017</time>
                             </div>
                             {/* - - - - - - - - - - - - - End of Meta - - - - - - - - - - - - - - - - */}
-                            <h6 className="entry-title"><a href="#">Nam Elit Agna Endrerit Sit Amet</a></h6>
+                            <h6 className="entry-title"><a >Nam Elit Agna Endrerit Sit Amet</a></h6>
                           </div>
                           {/* - - - - - - - - - - - - - End of Entry body - - - - - - - - - - - - - - - - */}
                         </article>
@@ -79,7 +79,7 @@ const Footer=()=>{
                               <time className="entry-date" dateTime="2016-01-17">December 17, 2017</time>
                             </div>
                             {/* - - - - - - - - - - - - - End of Meta - - - - - - - - - - - - - - - - */}
-                            <h6 className="entry-title"><a href="#">Donec Porta Diam Eu</a></h6>
+                            <h6 className="entry-title"><a >Donec Porta Diam Eu</a></h6>
                           </div>
                           {/* - - - - - - - - - - - - - End of Entry body - - - - - - - - - - - - - - - - */}
                         </article>

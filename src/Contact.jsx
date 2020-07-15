@@ -28,7 +28,7 @@ const Contact=()=>{
                       <div className="icons-item">
                         <div className="item-box"> <i className="licon-map-marker" />
                           <h5 className="icons-box-title">
-                            <a href="#">Address</a>
+                            <a >Address</a>
                           </h5>
                           <p>
                             9870 St Vincent Place, Glasgow, <br /> DC 45 Fr 45
@@ -41,7 +41,7 @@ const Contact=()=>{
                       <div className="icons-item">
                         <div className="item-box"> <i className="licon-telephone" />
                           <h5 className="icons-box-title">
-                            <a href="#">Phone</a>
+                            <a >Phone</a>
                           </h5>
                           <p>
                             800-987-65-43
@@ -54,7 +54,7 @@ const Contact=()=>{
                       <div className="icons-item">
                         <div className="item-box"> <i className="licon-telephone2" />
                           <h5 className="icons-box-title">
-                            <a href="#">Fax</a>
+                            <a >Fax</a>
                           </h5>
                           <p>
                             800-987-65-43
@@ -67,7 +67,7 @@ const Contact=()=>{
                       <div className="icons-item">
                         <div className="item-box"> <i className="licon-at-sign" />
                           <h5 className="icons-box-title">
-                            <a href="#">Email</a>
+                            <a >Email</a>
                           </h5>
                           <p>
                             <a href="mailto:#" className="link-text">mail@companyname.com</a>
@@ -80,7 +80,7 @@ const Contact=()=>{
                       <div className="icons-item">
                         <div className="item-box"><i className="licon-clock3" />
                           <h5 className="icons-box-title">
-                            <a href="#">Opening Hours</a>
+                            <a >Opening Hours</a>
                           </h5>
                           <p>
                             Monday – Friday <br /> 8:00 AM – 5:00 PM
@@ -93,13 +93,13 @@ const Contact=()=>{
                       <div className="icons-item">
                         <div className="item-box"> <i className="licon-share2" />
                           <h5 className="icons-box-title">
-                            <a href="#">Stay Connected</a>
+                            <a >Stay Connected</a>
                           </h5>
                           <ul className="social-icons">
-                            <li className="fb-icon"><a href="#"><i className="icon-facebook" /></a></li>
-                            <li className="google-icon"><a href="#"><i className="icon-gplus" /></a></li>
-                            <li className="tweet-icon"><a href="#"><i className="icon-twitter" /></a></li>
-                            <li className="insta-icon"><a href="#"><i className="icon-instagram-4" /></a></li>
+                            <li className="fb-icon"><a ><i className="icon-facebook" /></a></li>
+                            <li className="google-icon"><a ><i className="icon-gplus" /></a></li>
+                            <li className="tweet-icon"><a ><i className="icon-twitter" /></a></li>
+                            <li className="insta-icon"><a ><i className="icon-instagram-4" /></a></li>
                           </ul>
                         </div>
                       </div>

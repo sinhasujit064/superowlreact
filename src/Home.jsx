@@ -19,8 +19,8 @@ const Home=()=>{
                 {/* - - - - - - - - - - - - - End of Layer 2 - - - - - - - - - - - - - - - - */}	        	    
                 {/* - - - - - - - - - - - - - Layer 3 - - - - - - - - - - - - - - - - */}	    
                 <div className="tp-caption tp-resizeme rs-parallaxlevel-3" data-x="center" data-y="top" data-voffset={420} data-whitespace="nowrap" data-frames="[{&quot;delay&quot;:750,&quot;speed&quot;:2500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:[-100%];z:0;rX:0deg;rY:0deg;rZ:0deg;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;frame&quot;:&quot;hover&quot;,&quot;speed&quot;:&quot;300&quot;,&quot;ease&quot;:&quot;Power1.easeInOut&quot;,&quot;to&quot;:&quot;o:1;rX:0;rY:0;rZ:0;z:0;&quot;}]">
-                  <a href="#" className="btn btn-big type-2 btn-style-7">Read More</a>
-                  <a href="#" className="btn btn-big">Enrol Now</a>
+                  <a  className="btn btn-big type-2 btn-style-7">Read More</a>
+                  <a  className="btn btn-big">Enrol Now</a>
                 </div>
                 {/* - - - - - - - - - - - - - End of Layer 3 - - - - - - - - - - - - - - - - */} 
               </li>
@@ -36,8 +36,8 @@ const Home=()=>{
                 {/* - - - - - - - - - - - - - End of Layer 2 - - - - - - - - - - - - - - - - */}	        	    
                 {/* - - - - - - - - - - - - - Layer 3 - - - - - - - - - - - - - - - - */}	    
                 <div className="tp-caption tp-resizeme rs-parallaxlevel-3" data-x="center" data-y="top" data-voffset={420} data-whitespace="nowrap" data-frames="[{&quot;delay&quot;:550,&quot;speed&quot;:2500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:[-100%];z:0;rX:0deg;rY:0deg;rZ:0deg;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;frame&quot;:&quot;hover&quot;,&quot;speed&quot;:&quot;300&quot;,&quot;ease&quot;:&quot;Power1.easeInOut&quot;,&quot;to&quot;:&quot;o:1;rX:0;rY:0;rZ:0;z:0;&quot;}]">
-                  <a href="#" className="btn btn-big type-2 btn-style-7">Read More</a>
-                  <a href="#" className="btn btn-big">Enrol Now</a>
+                  <a  className="btn btn-big type-2 btn-style-7">Read More</a>
+                  <a  className="btn btn-big">Enrol Now</a>
                 </div>
                 {/* - - - - - - - - - - - - - End of Layer 3 - - - - - - - - - - - - - - - - */} 
               </li>
@@ -53,8 +53,8 @@ const Home=()=>{
                 {/* - - - - - - - - - - - - - End of Layer 2 - - - - - - - - - - - - - - - - */}	        	    
                 {/* - - - - - - - - - - - - - Layer 3 - - - - - - - - - - - - - - - - */}	    
                 <div className="tp-caption tp-resizeme rs-parallaxlevel-3" data-x="center" data-y="top" data-voffset={420} data-whitespace="nowrap" data-frames="[{&quot;delay&quot;:750,&quot;speed&quot;:2500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:[-100%];z:0;rX:0deg;rY:0deg;rZ:0deg;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:1000,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;frame&quot;:&quot;hover&quot;,&quot;speed&quot;:&quot;300&quot;,&quot;ease&quot;:&quot;Power1.easeInOut&quot;,&quot;to&quot;:&quot;o:1;rX:0;rY:0;rZ:0;z:0;&quot;}]">
-                  <a href="#" className="btn btn-big type-2 btn-style-7">Read More</a>
-                  <a href="#" className="btn btn-big">Enrol Now</a>
+                  <a  className="btn btn-big type-2 btn-style-7">Read More</a>
+                  <a  className="btn btn-big">Enrol Now</a>
                 </div>
                 {/* - - - - - - - - - - - - - End of Layer 3 - - - - - - - - - - - - - - - - */} 
               </li>
@@ -109,7 +109,7 @@ const Home=()=>{
                               <time className="entry-date-text" dateTime="2016-08-20">
                                 December 20, 2017
                               </time>
-                              <h5 className="entry-title"><a href="#">Vestibulum Ante Ipsum</a></h5>
+                              <h5 className="entry-title"><a >Vestibulum Ante Ipsum</a></h5>
                               <p>Sed in lacus ut enim adipiscing aliquet. Nulla venenatis. In pede mi, aliquet sit amet, euismod in, auctor ut, ligula. </p>
                             </div>
                             {/* - - - - - - - - - - - - - End of Entry body - - - - - - - - - - - - - - - - */}
@@ -143,7 +143,7 @@ const Home=()=>{
                               <time className="entry-date-text" dateTime="2016-08-17">
                                 December 16, 2017
                               </time>
-                              <h5 className="entry-title"><a href="#">Donec Eget Tellus</a></h5>
+                              <h5 className="entry-title"><a >Donec Eget Tellus</a></h5>
                               <p>Aliquam dapibus tincidunt metus. Praesent justo dolor, lobortis quis, lobortis dignissim, pulvinar ac, lorem. </p>
                             </div>
                             {/* - - - - - - - - - - - - - End of Entry body - - - - - - - - - - - - - - - - */}
@@ -177,7 +177,7 @@ const Home=()=>{
                               <time className="entry-date-text" dateTime="2016-08-10">
                                 December 9, 2017
                               </time>
-                              <h5 className="entry-title"><a href="#">Nulla Venenatis</a></h5>
+                              <h5 className="entry-title"><a >Nulla Venenatis</a></h5>
                               <p>Vestibulum sed ante. Donec sagittis euismod purus.Sed ut perspiciatis sit voluptatem accusantium.</p>
                             </div>
                             {/* - - - - - - - - - - - - - End of Entry body - - - - - - - - - - - - - - - - */}
@@ -191,7 +191,7 @@ const Home=()=>{
                   </div>
                   {/* /Slide */}
                 </div>
-                <a href="#" className="btn type-4 btn-style-6" style={{background: 'white', color: 'black'}}>View More</a>
+                <a  className="btn type-4 btn-style-6" style={{background: 'white', color: 'black'}}>View More</a>
               </div>
             </div>
           </div>
@@ -216,7 +216,7 @@ const Home=()=>{
                       <div className="bottom-separator" />
                     </div>
                     <div className="author-box">
-                      <a href="#" className="avatar">
+                      <a  className="avatar">
                         <img src="assets/pic/1.png" alt="" />
                       </a>
                       <div className="author-info">
@@ -239,7 +239,7 @@ const Home=()=>{
                       <div className="bottom-separator" />
                     </div>
                     <div className="author-box">
-                      <a href="#" className="avatar">
+                      <a  className="avatar">
                         <img src="assets/pic/2.png" alt="" />
                       </a>
                       <div className="author-info">
@@ -262,7 +262,7 @@ const Home=()=>{
                       <div className="bottom-separator" />
                     </div>
                     <div className="author-box">
-                      <a href="#" className="avatar">
+                      <a  className="avatar">
                         <img src="assets/pic/3.png" alt="" />
                       </a>
                       <div className="author-info">
@@ -285,7 +285,7 @@ const Home=()=>{
                       <div className="bottom-separator" />
                     </div>
                     <div className="author-box">
-                      <a href="#" className="avatar">
+                      <a  className="avatar">
                         <img src="assets/pic/1.png" alt="" />
                       </a>
                       <div className="author-info">
@@ -308,7 +308,7 @@ const Home=()=>{
                       <div className="bottom-separator" />
                     </div>
                     <div className="author-box">
-                      <a href="#" className="avatar">
+                      <a  className="avatar">
                         <img src="assets/pic/2.png" alt="" />
                       </a>
                       <div className="author-info">
@@ -331,7 +331,7 @@ const Home=()=>{
                       <div className="bottom-separator" />
                     </div>
                     <div className="author-box">
-                      <a href="#" className="avatar">
+                      <a  className="avatar">
                         <img src="assets/pic/3.png" alt="" />
                       </a>
                       <div className="author-info">
@@ -361,7 +361,7 @@ const Home=()=>{
               <div className="col-sm-4">
                 <div className="align-right">
                   <div className="button-holder">
-                    <a href="#" className="btn btn-big">Enrol Now!</a>
+                    <a  className="btn btn-big">Enrol Now!</a>
                     <p>Or Call <span>855-605-8080</span></p>
                   </div>
                 </div>
