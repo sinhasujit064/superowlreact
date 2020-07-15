@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/superowlreact/static/css/main.5f361e03.chunk.css",
+    "main.js": "/superowlreact/static/js/main.72511ec4.chunk.js",
+    "main.js.map": "/superowlreact/static/js/main.72511ec4.chunk.js.map",
+    "runtime-main.js": "/superowlreact/static/js/runtime-main.b5481573.js",
+    "runtime-main.js.map": "/superowlreact/static/js/runtime-main.b5481573.js.map",
+    "static/js/2.ecfa81c7.chunk.js": "/superowlreact/static/js/2.ecfa81c7.chunk.js",
+    "static/js/2.ecfa81c7.chunk.js.map": "/superowlreact/static/js/2.ecfa81c7.chunk.js.map",
+    "index.html": "/superowlreact/index.html",
+    "precache-manifest.2b9a76cdb9c4c2a299f7870575c22b18.js": "/superowlreact/precache-manifest.2b9a76cdb9c4c2a299f7870575c22b18.js",
+    "service-worker.js": "/superowlreact/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/superowlreact/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ecfa81c7.chunk.js.LICENSE.txt": "/superowlreact/static/js/2.ecfa81c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5481573.js",
+    "static/js/2.ecfa81c7.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.72511ec4.chunk.js"
+  ]
+}
